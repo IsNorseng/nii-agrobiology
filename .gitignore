@@ -1,0 +1,7 @@
+/build/
+/.idea/
+*.jks
+*.keystore
+*.p12
+*.pfx
+local.properties
